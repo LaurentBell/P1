@@ -2,7 +2,7 @@
 ## Squelette pour développement PHP v1
 
 ### Technologies employées
--PHP
--JQuery
--Bootstrap
--Vagrant
+- PHP
+- JQuery
+- Bootstrap
+- Vagrant
