@@ -2,4 +2,4 @@ test
 
 <?php
 
-// Correction du bug
+// Correction du bug #1
